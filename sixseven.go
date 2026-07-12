@@ -1,9 +1,10 @@
-// Package sixseven enables to say "Six seven"
+// Package sixseven enables to say "Six seven".
 package sixseven
 
 import "fmt"
 
-// GuessWhat adds a mysterious wait before saying "Six seven"
+// GuessWhat adds a mysterious wait before saying "Six seven".
+//  sixseven.GuessWhat()
 func GuessWhat() {
 	fmt.Println("Six seven")
 }
